@@ -1,0 +1,72 @@
+html {
+  background-color: rgb(202, 191, 182);
+}
+body {
+  background-color: white;
+  width: 600px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 80px;
+  margin: auto;
+  font-family: "Open Sans";
+}
+img {
+  width: 600px;
+}
+.picture {
+  text-align: center;
+}
+h2 {
+  font-family: "Proza Libre", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.apple {
+  background-color: #b6bcca;
+  font-size: 20px;
+  display: inline-block;
+  border: none;
+  padding: 7px 40px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+}
+.android {
+  background-color: #a4c93b;
+  font-size: 20px;
+  border: none;
+  display: inline-block;
+  padding: 7px 40px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.6);
+}
+
+.Explore {
+  text-align: center;
+  background-color: #c9793b;
+  color: black;
+  border-radius: 6px;
+
+  width: 200px;
+  height: 45px;
+  margin: 0 auto;
+  padding: 0px;
+  line-height: 45px;
+  margin-bottom: 30px;
+}
+
+.Explore:hover {
+  border: 2px solid black;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+a:visited {
+  color: black;
+}
+
+button {
+  margin-right: 20px;
+}
